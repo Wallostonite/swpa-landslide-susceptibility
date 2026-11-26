@@ -1,0 +1,90 @@
+{
+  "cv_slope_only": {
+    "usgs_roc_auc": 0.8151689768822851,
+    "usgs_pr_auc": 0.010610462934733871,
+    "usgs_top10_capture": 0.334038502221282,
+    "modern_roc_auc_allegheny": 0.7041599427935935,
+    "modern_roc_auc_allegheny_near_road": 0.7282097831906593,
+    "modern_top10_capture_allegheny": 0.34116809116809116
+  },
+  "cv_terrain": {
+    "usgs_roc_auc": 0.8929591975722491,
+    "usgs_pr_auc": 0.025809402206367123,
+    "usgs_top10_capture": 0.6202665538396446,
+    "modern_roc_auc_allegheny": 0.7258237699610206,
+    "modern_roc_auc_allegheny_near_road": 0.74418201854492,
+    "modern_top10_capture_allegheny": 0.3319088319088319
+  },
+  "cv_terrain_geo_lc": {
+    "usgs_roc_auc": 0.9339101297335357,
+    "usgs_pr_auc": 0.06424847400359013,
+    "usgs_top10_capture": 0.7975460122699386,
+    "modern_roc_auc_allegheny": 0.7865229133166688,
+    "modern_roc_auc_allegheny_near_road": 0.777239604046027,
+    "modern_top10_capture_allegheny": 0.48646723646723644
+  },
+  "cv_plus_mining": {
+    "usgs_roc_auc": 0.9355254671410396,
+    "usgs_pr_auc": 0.06463995861566425,
+    "usgs_top10_capture": 0.8017770255976306,
+    "modern_roc_auc_allegheny": 0.7932624786106339,
+    "modern_roc_auc_allegheny_near_road": 0.7831841371223156,
+    "modern_top10_capture_allegheny": 0.5092592592592593
+  },
+  "cv_plus_pasda": {
+    "usgs_roc_auc": 0.9378490222619749,
+    "usgs_pr_auc": 0.0697669366278051,
+    "usgs_top10_capture": 0.8148931669134758,
+    "modern_roc_auc_allegheny": 0.7839715473198299,
+    "modern_roc_auc_allegheny_near_road": 0.7709183525290236,
+    "modern_top10_capture_allegheny": 0.5192307692307693
+  },
+  "loco_slope_only": {
+    "usgs_roc_auc": 0.7292286178802427,
+    "usgs_pr_auc": 0.007770193678696859,
+    "usgs_top10_capture": 0.26443833298074887,
+    "modern_roc_auc_allegheny": 0.7061712547549435,
+    "modern_roc_auc_allegheny_near_road": 0.7299687397622133,
+    "modern_top10_capture_allegheny": 0.3425925925925926
+  },
+  "loco_terrain_geo_lc": {
+    "usgs_roc_auc": 0.9141632737571331,
+    "usgs_pr_auc": 0.03650755352950261,
+    "usgs_top10_capture": 0.7114448910514068,
+    "modern_roc_auc_allegheny": 0.7638077216805557,
+    "modern_roc_auc_allegheny_near_road": 0.7616459210588191,
+    "modern_top10_capture_allegheny": 0.40954415954415957
+  },
+  "loco_plus_mining": {
+    "usgs_roc_auc": 0.915654292320454,
+    "usgs_pr_auc": 0.035513854872275256,
+    "usgs_top10_capture": 0.7186376137084832,
+    "modern_roc_auc_allegheny": 0.777058937803792,
+    "modern_roc_auc_allegheny_near_road": 0.7729257097847961,
+    "modern_top10_capture_allegheny": 0.4594017094017094
+  },
+  "loco_plus_pasda": {
+    "usgs_roc_auc": 0.9138917019659317,
+    "usgs_pr_auc": 0.03523133933951611,
+    "usgs_top10_capture": 0.7038290670615612,
+    "modern_roc_auc_allegheny": 0.7403987867993561,
+    "modern_roc_auc_allegheny_near_road": 0.7372608519023133,
+    "modern_top10_capture_allegheny": 0.4131054131054131
+  },
+  "allegheny_only_terrain_geo_lc": {
+    "usgs_roc_auc": 0.7862464169885859,
+    "usgs_pr_auc": 0.010879131582984572,
+    "usgs_top10_capture": 0.3652026207231255,
+    "modern_roc_auc_allegheny": 0.7524994852034679,
+    "modern_roc_auc_allegheny_near_road": 0.7406943616184479,
+    "modern_top10_capture_allegheny": 0.4309116809116809
+  },
+  "allegheny_only_plus_mining": {
+    "usgs_roc_auc": 0.7510124143622534,
+    "usgs_pr_auc": 0.009291224032306356,
+    "usgs_top10_capture": 0.31909730647900997,
+    "modern_roc_auc_allegheny": 0.763820491308821,
+    "modern_roc_auc_allegheny_near_road": 0.752567700247095,
+    "modern_top10_capture_allegheny": 0.45014245014245013
+  }
+}

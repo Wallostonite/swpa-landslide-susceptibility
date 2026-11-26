@@ -1,0 +1,10 @@
+variant,usgs_allegheny,modern_allegheny,modern_near_road
+baseline,0.839,0.766,0.763
++mining,0.845,0.777,0.772
++wells,0.838,0.765,0.763
++roads,0.841,0.75,0.744
++regolith,0.838,0.762,0.759
++soils_no_slip,0.832,0.745,0.742
++soil_slip,0.838,0.759,0.757
+all_pasda,0.84,0.743,0.739
+all_pasda_minus_slip,0.844,0.747,0.741

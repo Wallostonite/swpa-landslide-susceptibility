@@ -1,0 +1,6 @@
+variant,n_features,usgs_allegheny,modern_allegheny,modern_2018plus,modern_near_road
+primary (terrain+geo+lc+mining),45,0.845,0.777,0.781,0.772
+primary + AEF,109,0.834,0.714,0.713,0.719
+"primary, AEF instead of land cover",100,0.833,0.713,0.713,0.719
+slope + AEF,65,0.803,0.661,0.655,0.676
+AEF only,64,0.785,0.593,0.585,0.615

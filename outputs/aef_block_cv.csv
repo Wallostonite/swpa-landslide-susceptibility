@@ -1,0 +1,4 @@
+variant,median_within_county,modern_allegheny,modern_2018plus
+primary (terrain+geo+lc+mining),0.874,0.793,0.797
+primary + AEF,0.887,0.775,0.778
+AEF only,0.842,0.728,0.726

@@ -1,0 +1,14 @@
+geopandas>=1.0
+rasterio>=1.4
+numpy
+scipy
+pandas
+pyarrow
+pyproj
+requests
+h3>=4.0
+pysheds>=0.4
+lightgbm>=4.0
+scikit-learn>=1.4
+matplotlib
+folium

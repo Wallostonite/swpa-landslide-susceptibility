@@ -1,0 +1,38 @@
+# --- Documents: never commit reports, papers or manuscripts ---
+*.pdf
+*.doc
+*.docx
+*.dotx
+*.odt
+*.rtf
+*.pages
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+# generator script for the methodology document (contains the manuscript text)
+docs/build_methodology.js
+
+# --- Raw and intermediate data (downloaded from providers at run time) ---
+data/
+
+# --- Large or regenerable outputs ---
+outputs/*.tif
+outputs/*.parquet
+outputs/model_*.txt
+
+# --- Python / environments ---
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# --- OS / editor / R ---
+.DS_Store
+.Rhistory
+.RData
+.vscode/
+.idea/
+*.log

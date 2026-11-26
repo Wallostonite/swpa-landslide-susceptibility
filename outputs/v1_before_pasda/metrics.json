@@ -1,0 +1,44 @@
+{
+  "cv_slope_only": {
+    "usgs_roc_auc": 0.8151689768822851,
+    "usgs_pr_auc": 0.010610462934733871,
+    "usgs_top10_capture": 0.334038502221282,
+    "modern_roc_auc_allegheny": 0.6981312865348738,
+    "modern_top10_capture_allegheny": 0.3407534246575342
+  },
+  "cv_terrain": {
+    "usgs_roc_auc": 0.8929591975722491,
+    "usgs_pr_auc": 0.025809402206367123,
+    "usgs_top10_capture": 0.6202665538396446,
+    "modern_roc_auc_allegheny": 0.7169567306100644,
+    "modern_top10_capture_allegheny": 0.3321917808219178
+  },
+  "cv_terrain_geo_lc": {
+    "usgs_roc_auc": 0.9339101297335357,
+    "usgs_pr_auc": 0.06424847400359013,
+    "usgs_top10_capture": 0.7975460122699386,
+    "modern_roc_auc_allegheny": 0.7820968847153915,
+    "modern_top10_capture_allegheny": 0.4845890410958904
+  },
+  "loco_slope_only": {
+    "usgs_roc_auc": 0.7292286178802427,
+    "usgs_pr_auc": 0.007770193678696859,
+    "usgs_top10_capture": 0.26443833298074887,
+    "modern_roc_auc_allegheny": 0.7006499435401258,
+    "modern_top10_capture_allegheny": 0.3424657534246575
+  },
+  "loco_terrain_geo_lc": {
+    "usgs_roc_auc": 0.9141632737571331,
+    "usgs_pr_auc": 0.03650755352950261,
+    "usgs_top10_capture": 0.7114448910514068,
+    "modern_roc_auc_allegheny": 0.7589458592559302,
+    "modern_top10_capture_allegheny": 0.398972602739726
+  },
+  "allegheny_only": {
+    "usgs_roc_auc": 0.7862464169885859,
+    "usgs_pr_auc": 0.010879131582984572,
+    "usgs_top10_capture": 0.3652026207231255,
+    "modern_roc_auc_allegheny": null,
+    "modern_top10_capture_allegheny": null
+  }
+}
